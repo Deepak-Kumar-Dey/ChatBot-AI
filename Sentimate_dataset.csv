@@ -1,0 +1,97 @@
+keyword,sentiment,example_sentence
+happy,positive,The results were absolutely happy.
+excellent,positive,The product received excellent feedback from users.
+amazing,positive,The customer said the service was amazing.
+wonderful,positive,The customer said the service was wonderful.
+love,positive,The product received love feedback from users.
+great,positive,The product received great feedback from users.
+fantastic,positive,The customer said the service was fantastic.
+pleasant,positive,The results were absolutely pleasant.
+satisfied,positive,Everyone praised the satisfied performance.
+enjoy,positive,The customer said the service was enjoy.
+delighted,positive,The results were absolutely delighted.
+superb,positive,The customer said the service was superb.
+brilliant,positive,The customer said the service was brilliant.
+awesome,positive,The product received awesome feedback from users.
+cheerful,positive,The product received cheerful feedback from users.
+impressed,positive,The customer said the service was impressed.
+perfect,positive,Everyone praised the perfect performance.
+glad,positive,Everyone praised the glad performance.
+outstanding,positive,The results were absolutely outstanding.
+positive,positive,It was a positive moment for the team.
+beautiful,positive,The results were absolutely beautiful.
+comforting,positive,Everyone praised the comforting performance.
+encouraging,positive,The results were absolutely encouraging.
+fascinating,positive,The customer said the service was fascinating.
+joyful,positive,It was a joyful moment for the team.
+motivated,positive,Everyone praised the motivated performance.
+grateful,positive,The customer said the service was grateful.
+peaceful,positive,Everyone praised the peaceful performance.
+relaxed,positive,It was a relaxed moment for the team.
+nice,positive,It was a nice moment for the team.
+helpful,positive,Everyone praised the helpful performance.
+incredible,positive,It was a incredible moment for the team.
+adorable,positive,Everyone praised the adorable performance.
+splendid,positive,Everyone praised the splendid performance.
+excited,positive,Everyone praised the excited performance.
+optimistic,positive,It was a optimistic moment for the team.
+trustworthy,positive,The product received trustworthy feedback from users.
+reliable,positive,Everyone praised the reliable performance.
+valuable,positive,It was a valuable moment for the team.
+productive,positive,It was a productive moment for the team.
+creative,positive,It was a creative moment for the team.
+supportive,positive,It was a supportive moment for the team.
+inspiring,positive,It was a inspiring moment for the team.
+refreshing,positive,The results were absolutely refreshing.
+successful,positive,The customer said the service was successful.
+strong,positive,The product received strong feedback from users.
+friendly,positive,The customer said the service was friendly.
+lovely,positive,The results were absolutely lovely.
+sad,negative,It was a sad moment for everyone involved.
+terrible,negative,The review highlighted several terrible issues.
+horrible,negative,The situation became increasingly horrible.
+angry,negative,Customers complained about the angry quality.
+bad,negative,The experience turned out to be quite bad.
+disappointed,negative,Customers complained about the disappointed quality.
+hate,negative,The review highlighted several hate issues.
+awful,negative,Customers complained about the awful quality.
+frustrated,negative,Customers complained about the frustrated quality.
+poor,negative,Customers complained about the poor quality.
+upset,negative,Customers complained about the upset quality.
+worried,negative,The experience turned out to be quite worried.
+annoyed,negative,Customers complained about the annoyed quality.
+depressed,negative,Customers complained about the depressed quality.
+hurt,negative,The experience turned out to be quite hurt.
+miserable,negative,The experience turned out to be quite miserable.
+confused,negative,The experience turned out to be quite confused.
+hopeless,negative,The experience turned out to be quite hopeless.
+irritated,negative,The review highlighted several irritated issues.
+negative,negative,It was a negative moment for everyone involved.
+ugly,negative,It was a ugly moment for everyone involved.
+stressful,negative,It was a stressful moment for everyone involved.
+unhappy,negative,Customers complained about the unhappy quality.
+tired,negative,It was a tired moment for everyone involved.
+painful,negative,It was a painful moment for everyone involved.
+broken,negative,The experience turned out to be quite broken.
+slow,negative,Customers complained about the slow quality.
+useless,negative,The situation became increasingly useless.
+weak,negative,Customers complained about the weak quality.
+boring,negative,The experience turned out to be quite boring.
+disgusted,negative,The experience turned out to be quite disgusted.
+critical,negative,It was a critical moment for everyone involved.
+fearful,negative,It was a fearful moment for everyone involved.
+ashamed,negative,The situation became increasingly ashamed.
+guilty,negative,The experience turned out to be quite guilty.
+jealous,negative,It was a jealous moment for everyone involved.
+overwhelmed,negative,Customers complained about the overwhelmed quality.
+dissatisfied,negative,The review highlighted several dissatisfied issues.
+troubled,negative,Customers complained about the troubled quality.
+unpleasant,negative,The experience turned out to be quite unpleasant.
+insecure,negative,The review highlighted several insecure issues.
+regret,negative,The review highlighted several regret issues.
+failure,negative,It was a failure moment for everyone involved.
+ignored,negative,The review highlighted several ignored issues.
+lonely,negative,It was a lonely moment for everyone involved.
+cruel,negative,The experience turned out to be quite cruel.
+rude,negative,The experience turned out to be quite rude.
+worthless,negative,The review highlighted several worthless issues.
